@@ -1,90 +1,109 @@
 # Alexandre Martins de Freitas
 
-Independent Researcher | Developer | Investor  
-Creator of AMF Division, AMF Hash, and AMF Web Framework  
+Alexandre Martins de Freitas is an independent researcher, software developer, and investor focused on mathematical structures, deterministic computation, and financial systems.
+
+Creator of:
+- AMF Division
+- AMF Hash
+- AMF Web Framework
 
 ---
 
-## About
+## About Alexandre Martins de Freitas
 
-I work at the intersection of **mathematics, software engineering, and financial systems**, focusing on deterministic structures and scalable computational models.
+Alexandre Martins de Freitas works at the intersection of mathematics, software engineering, and investment strategy.
 
-My work explores how structured representations can be applied across:
-- Arithmetic systems  
-- Data processing  
-- Web rendering  
-- Investment strategies  
+His work focuses on:
+- Structured mathematical representations
+- Deterministic algorithms
+- Efficient computational systems
+- Technology-driven investing
+
+He is currently developing original frameworks and preparing academic publication of his work.
 
 ---
 
-## Core Projects
+## AMF Division
 
-### AMF Division
-Structured quotient–remainder representation:
+AMF Division is a structured quotient–remainder representation of division defined as:
+
 a = bq + r, with 0 ≤ r < |b|  
 a / b = q + r / b  
 
-A formal and deterministic way to represent division.
+This representation formalizes division into deterministic components for mathematical and computational applications.
+
+Keywords: AMF Division, quotient remainder representation, structured division
 
 ---
 
-### AMF Hash
-Deterministic hashing algorithm based on positional weighted sums.
+## AMF Hash Algorithm
 
-- Linear time complexity O(n)  
-- Order-sensitive  
-- Designed for efficiency and simplicity  
+AMF Hash is a deterministic hashing algorithm based on positional weighted sums.
 
----
+Properties:
+- Deterministic output
+- Linear time complexity O(n)
+- Order-sensitive
 
-### AMF Web Framework
-Java-based framework for structured HTML rendering.
+Designed for efficient data processing and lightweight integrity verification.
 
-- Composable element system  
-- Deterministic output  
-- Lightweight architecture  
-- Designed as a custom rendering engine  
+Keywords: AMF Hash, deterministic hashing, hash algorithm
 
 ---
 
-## Investment Activity
+## AMF Web Framework
 
-- Technology-focused portfolio  
-- 15+ companies  
-- 100%+ growth over 2 years  
+AMF Web Framework is a Java-based web framework for structured HTML rendering.
 
-Focus:
-- Long-term growth  
-- High-conviction tech positions  
-- Structured decision-making  
+Features:
+- Composable element tree (DOM-like structure)
+- Deterministic rendering output
+- Lightweight and efficient design
+
+It acts as a custom rendering engine for building web content programmatically.
+
+Keywords: AMF Web Framework, Java HTML rendering, web engine
+
+---
+
+## Investment Profile
+
+Alexandre Martins de Freitas actively manages a technology-focused investment portfolio.
+
+- 15+ companies
+- Over 100% growth in 2 years
+
+Focus areas:
+- Technology companies
+- Long-term structural growth
+- High-conviction investments
 
 ---
 
 ## Vision
 
-Building **deterministic systems** that connect:
-- Mathematics  
-- Software  
-- Financial models  
+To build deterministic systems connecting:
 
-Long-term objective:
-> Create a technology-focused hedge fund integrating structured computation and investment strategy.
+- Mathematics
+- Software engineering
+- Financial models
+
+Long-term goal:
+Create a technology-focused hedge fund based on structured computation and investment strategy.
 
 ---
 
 ## Current Work
 
-- Developing AMF Web Framework  
-- Publishing AMF Division (arXiv)  
-- Expanding investment systems and track record  
+- Development of AMF Web Framework
+- Publication of AMF Division (arXiv)
+- Expansion of AMF-based systems
 
 ---
 
 ## Contact
 
-Open to:
-- Research collaboration  
-- Technical development  
-- Investment discussions  
-
----
+Open to collaboration in:
+- Mathematics
+- Software engineering
+- Investment systems
