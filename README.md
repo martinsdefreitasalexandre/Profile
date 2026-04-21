@@ -70,7 +70,7 @@ Keywords: AMF Web Framework, Java HTML rendering, web engine
 
 Alexandre Martins de Freitas actively manages a technology-focused investment portfolio.
 
-- 15+ companies
+- 10+ companies
 - Over 100% growth in 2 years
 
 Focus areas:
