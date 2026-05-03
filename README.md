@@ -1,34 +1,51 @@
 # 👋 Alexandre Martins de Freitas (Alexdkk)
 
 🚀 Software Developer | Algorithm Designer | Investor  
+⚡ Focused on high-performance systems, custom algorithms, and scalable technologies  
 
 ---
 
 ## 🧠 About Me
 
-I focus on building **high-performance systems and algorithms**, with an emphasis on:
+I build **performance-driven systems and algorithms** with a focus on simplicity, efficiency, and scalability.
 
-- Low-level optimization  
-- Custom hashing & computation models  
-- Scalable backend architectures  
-- Performance-driven design  
+My work explores:
+- ⚡ High-performance hashing and computation models  
+- 🧮 Alternative numeric representations (AMF Division)  
+- 🌐 Backend and real-time system design  
 
-Currently developing experimental technologies including:
-
-- ⚡ **AMF Hash** – lightweight arithmetic-based hashing algorithm  
-- 🧮 **AMF Division** – structured quotient–remainder representation  
-- 🌐 **AMF Web Framework** (in progress)
+I aim to bridge **software engineering, mathematics, and financial systems** into practical, scalable solutions.
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Core Projects
 
-> Performance matters. Simplicity scales.  
+### 🔹 AMF Hash
+Lightweight hashing algorithm based on arithmetic operations and positional weighting.
 
-I prioritize:
-- minimal overhead  
-- deterministic behavior  
-- real-world efficiency over theoretical complexity  
+- Designed for **low overhead and high speed**
+- Portable across multiple languages (C, Java, etc.)
+- Experimental alternative to traditional checksums like CRC32
+
+---
+
+### 🔹 AMF Division
+Structured quotient–remainder representation:
+
+> a = bq + r  →  a / b = q + r / b
+
+Focus:
+- deterministic numeric modeling  
+- alternative representation of division  
+- mathematical exploration  
+
+---
+
+### 🔹 AMF Web Framework (In Progress)
+Next-generation backend framework focused on:
+- performance  
+- modular design  
+- scalability  
 
 ---
 
@@ -37,52 +54,43 @@ I prioritize:
 **Languages**
 - Java (primary)
 - C / C++
-- SQL
+- SQL  
 
-**Focus Areas**
+**Focus**
 - Backend systems  
 - Algorithm design  
 - Performance optimization  
-- Game / real-time systems  
+- Real-time applications  
 
 ---
 
-## 📊 Current Work
+## 📊 Performance Mindset
 
-- Developing next-gen hashing and computation models  
-- Benchmarking against standard algorithms like CRC32  
-- Exploring new approaches to division and numeric representation  
-- Building foundations for a future **technology-focused hedge fund**
+I prioritize:
+- minimal computational overhead  
+- deterministic systems  
+- measurable performance improvements  
+
+Benchmarks and validation are a key part of all projects.
 
 ---
 
-## 📈 Investment Background
+## 📈 Investment & Vision
 
-- Active investor across multiple companies  
+- Active investor in multiple companies  
 - Focus on **technology-driven growth**  
-- Long-term goal: combining **software + finance into a unified system**
+- Building toward a **technology-focused hedge fund**
 
 ---
 
-## 🔬 Projects
+## 🌍 Long-Term Vision
 
-### 🔹 AMF Hash
-Lightweight hashing algorithm optimized for speed and simplicity  
-→ Alternative approach to traditional checksum systems  
+Developing systems that combine:
+- high-performance computing  
+- mathematical modeling  
+- financial strategy  
 
-### 🔹 AMF Division
-Structured division model using quotient–remainder decomposition  
-
----
-
-## 🌍 Vision
-
-Bridging:
-- software engineering  
-- mathematics  
-- financial systems  
-
-To create scalable, high-performance technologies.
+to create scalable and impactful technology.
 
 ---
 
@@ -93,7 +101,7 @@ To create scalable, high-performance technologies.
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Notes
 
-Projects are experimental and under active development.  
-Performance and behavior are continuously being tested and validated.
+Projects are experimental and continuously evolving.  
+All claims are validated through benchmarking and testing.
